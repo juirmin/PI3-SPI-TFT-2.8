@@ -15,4 +15,10 @@
 |     GPIO27     |  LED  |
 | MISO_0(GPIO9)  | MISO  |
 
+## Library
 
+```
+sudo pip3 install adafruit-circuitpython-rgb-display
+sudo apt-get install fonts-dejavu
+sudo apt-get install python3-pil
+```
